@@ -1,0 +1,6 @@
+D:\Стас\test\TRPO_Kurs_Vernam\TRPO_Kurs_Vernam\bin\Debug\TRPO_Kurs_Vernam.exe.config
+D:\Стас\test\TRPO_Kurs_Vernam\TRPO_Kurs_Vernam\bin\Debug\TRPO_Kurs_Vernam.exe
+D:\Стас\test\TRPO_Kurs_Vernam\TRPO_Kurs_Vernam\bin\Debug\TRPO_Kurs_Vernam.pdb
+D:\Стас\test\TRPO_Kurs_Vernam\TRPO_Kurs_Vernam\obj\Debug\TRPO_Kurs_Vernam.csprojResolveAssemblyReference.cache
+D:\Стас\test\TRPO_Kurs_Vernam\TRPO_Kurs_Vernam\obj\Debug\TRPO_Kurs_Vernam.exe
+D:\Стас\test\TRPO_Kurs_Vernam\TRPO_Kurs_Vernam\obj\Debug\TRPO_Kurs_Vernam.pdb
